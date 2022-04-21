@@ -20,11 +20,13 @@ starlify:
 ```
  
 ## Start
-Start by cloning the project using the link below:
+Start by cloning the project using the link below:  
 https://github.com/entiros/starlify-kong-connector.git
 
 Go to cleaned location and run the command below to start the process:
+```
 mvn clean spring-boot:run
+```
 
 ## Import Kong API details to Starlify
 Use the endpoint below to start importing API details to Starlify as systems, services and flows: 
