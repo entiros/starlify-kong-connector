@@ -20,10 +20,10 @@ starlify:
 ```
  
 ## Start
-Start by copying the project using the link below:  
+Start by cloning the project by using the link below:   
 https://github.com/entiros/starlify-kong-connector.git
 
-Go to cleaned location and run the command below to start the process:
+Go to cloned location and run the command below to start the process:
 ```
 mvn clean spring-boot:run
 ```
