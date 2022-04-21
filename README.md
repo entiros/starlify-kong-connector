@@ -20,7 +20,7 @@ starlify:
 ```
  
 ## Start
-Start by cloning the project using the link below:  
+Start by copying the project using the link below:  
 https://github.com/entiros/starlify-kong-connector.git
 
 Go to cleaned location and run the command below to start the process:
