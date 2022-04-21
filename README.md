@@ -1,4 +1,4 @@
-# Starlify connector for Kong Gateway
+# Starlify connector for Kong API Gateway
 Exports the API details to Starlify as systems, services and flows.
 
 ## Dependencies
